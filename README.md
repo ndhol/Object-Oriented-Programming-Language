@@ -1,2 +1,2 @@
 # Object-Oriented-Programming-Language
-Tutor Centre management system using Object-Oriented Programming Language (Admin Part)
+Tutor Centre management system using C# Programming Language (Admin Part)
